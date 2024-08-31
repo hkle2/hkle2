@@ -10,7 +10,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
 
-[![Baekjoon Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=sandy0908)](https://solved.ac/sandy0908)
+[![Baekjoon Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=sandy0908)](https://solved.ac/sandy0908)  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/hkl22?theme=light)
 
 ### Tools
